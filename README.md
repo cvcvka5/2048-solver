@@ -1,10 +1,6 @@
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1 1 150px; max-width: 100%;">
-    <img src="assets/gameplay.gif" style="width: 100%; display: block;" alt="Gameplay 1">
-  </div>
-  <div style="flex: 1 1 150px; max-width: 100%;">
-    <img src="assets/gameplay2.gif" style="width: 100%; display: block;" alt="Gameplay 2">
-  </div>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
+  <img src="assets/gameplay.gif" style="width: 48%;" alt="Gameplay 1">
+  <img src="assets/gameplay2.gif" style="width: 48%;" alt="Gameplay 2">
 </div>
 
 ###
