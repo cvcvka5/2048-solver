@@ -1,4 +1,15 @@
-# 2048 GoPy Solver
+<div style="display: flex; flex-wrap: wrap; width: 100%;">
+  <div style="flex: 1; min-width: 150px;">
+    <img src="assets/gameplay.gif" style="width: 100%;" alt="Gameplay 1">
+  </div>
+  <div style="flex: 1; min-width: 150px;">
+    <img src="assets/gameplay2.gif" style="width: 100%;" alt="Gameplay 2">
+  </div>
+</div>
+
+###
+
+# 2048 Solver - GoPy
 
 A high-performance hybrid AI that solves the 2048 puzzle in real-time. It combines a Go-based search engine for raw speed with a Python-based computer vision wrapper for seamless browser interaction.
 
