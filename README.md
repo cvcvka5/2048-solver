@@ -8,7 +8,6 @@
 ###
 
 <br>
-<br>
 
 <h1 align="center"> 2048 Solver - GoPy</h1>
 A high-performance hybrid AI that solves the 2048 puzzle in real-time. It combines a Go-based search engine for raw speed with a Python-based computer vision wrapper for seamless browser interaction.
