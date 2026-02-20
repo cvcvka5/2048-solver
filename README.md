@@ -1,7 +1,7 @@
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
-  <img src="assets/gameplay.gif" style="width: 48%;" alt="Gameplay 1">
-  <img src="assets/gameplay2.gif" style="width: 48%;" alt="Gameplay 2">
-</div>
+<p align="center">
+  <img src="assets/gameplay.gif" width="49%">
+  <img src="assets/gameplay2.gif" width="49%">
+</p>
 
 ###
 
