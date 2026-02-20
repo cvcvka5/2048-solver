@@ -1,0 +1,8 @@
+# Image Processing and Vision
+opencv-python        # For template matching and board detection
+numpy                # For color distance calculations and array handling
+Pillow               # For high-speed screen grabbing
+
+# Automation and Input
+pyautogui           # For coordinate location and basic UI tasks
+pydirectinput       # For hardware-scan-code keypresses 
