@@ -2,14 +2,13 @@
 ---
 ###
 <p align="center">
-  <img src="assets/gameplay.gif" width="30%">
-  <img src="assets/gameplay2.gif" width="30%">
+  <img src="assets/gameplay.gif" width="40%">
+  <img src="assets/gameplay2.gif" width="40%">
 </p>
 
 ###
 ---
 
-<br>
 <br>
 <br>
 
